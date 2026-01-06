@@ -1,98 +1,107 @@
-<h1 align="center">Hi there, I'm Antônio Marcos 👋</h1>
-<h3 align="center">Software Engineer | Back-end | Cloud | AI</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2933,100:CBD5E1&height=200&section=header&text=Antônio%20Marcos&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/antoniomarcos-dev">
-    <img src="https://img.shields.io/github/followers/antoniomarcos-dev?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.credly.com/users/SEU_USUARIO_CREDLY">
-    <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-</p>
+  <h3>Software Engineer | Back-end | Cloud Specialist | AI Enthusiast</h3>
+  
+  <p align="center">
+    <strong>Especializado em arquiteturas distribuídas e soluções para Segurança Pública & Sustentabilidade.</strong>
+  </p>
 
----
-
-## 👨‍💻 About Me
-I’m a Software Engineer focused on building **scalable, secure, and high-impact solutions**.  
-My work centers on **back-end development, cloud computing, and artificial intelligence**, with a strong interest in projects that generate **social and environmental impact**.
-
-I actively contribute to open source and continuously improve my skills through real-world projects and certifications.
+  <div>
+    <a href="https://www.linkedin.com/in/antonio-marcos-rodrigues">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:antoniomarcos.dev.soft@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/users/antonio-marcos-rodrigues-batista">
+      <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+    </a>
+  </div>
+</div>
 
 ---
 
-## 🚀 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-</p>
+## ⚡ Sobre Mim
+
+Engenheiro de Software com foco em **Back-end e Cloud Computing (AWS)**. Atuo na construção de sistemas **resilientes, seguros e escaláveis**, com impacto direto na sociedade.
+
+Atualmente desenvolvo soluções para **Segurança Pública e Sustentabilidade (GreenTech)**, utilizando **IA e Cloud** para otimização de processos e tomada de decisão.
+
+- 🏗️ Arquiteturas: Microservices, Event-Driven, RESTful APIs  
+- 🔐 Princípios: SOLID, Clean Code, Clean Architecture  
+- 🌍 Impacto: Segurança Pública e Mercado de Créditos de Carbono  
 
 ---
 
-## 🏅 Certifications & Badges
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <a href="https://www.credly.com/users/antonio-marcos-rodrigues-batista" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-View%20All%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
-  </a>
-</p>
-
-### ☁️ AWS Certifications
-<p>
-  <!-- Substitua pelos links reais dos seus badges -->
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d035611e-979f-4271-80b1-549bbaa66dd3" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p>
-
-
-*Certifications validating skills in cloud computing, distributed systems, and modern software architecture.*
-
----
-
-## 📌 Featured Projects
-- **IgnisGuard** – Automated platform for inspections, certifications, and operational alerts in partnership with public safety institutions  
-- **CredVerd** – Carbon credit intermediation platform aligned with environmental regulation and sustainability initiatives  
-
----
-
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomarcos-dev&layout=compact&theme=dark&langs_count=8" />
-</p>
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>💻 Languages & Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=python,java,django,vscode" />
+        <br/><br/>
+        <ul>
+          <li>Desenvolvimento de APIs Robustas</li>
+          <li>Arquitetura de Microsserviços</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h4>☁️ Cloud & DevOps</h4>
+        <img src="https://skillicons.dev/icons?i=aws,docker,github,postgresql" />
+        <br/><br/>
+        <ul>
+          <li>Cloud-Native Solutions (AWS)</li>
+          <li>Automação de Pipelines CI/CD</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
 ---
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniomarcos-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</p>
+## 🏆 Certificações
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniomarcos-dev&theme=dark" />
-</p>
-
----
-
-## 🤝 Open Source & Collaboration
-- Open to collaboration on **back-end, cloud, and AI-driven projects**
-- Interested in **open source**, **public sector**, and **sustainability-focused solutions**
-- Always learning and sharing knowledge with the community
-
----
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/
-- Email: seuemail@email.com
+<table align="center">
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://www.credly.com/badges/d035611e-979f-4271-80b1-549bbaa66dd3" target="_blank">
+        <img width="200" height="2000" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/bec0f832-710d-4c99-9696-f242430e34aa" alt="AWS RE/START"/>
+      </a>
+    </td>
+    <td>
+      <strong>AWS RE/START</strong><br />
+      <em>Amazon Web Services (AWS)</em><br />
+      <small>Validação global de proficiência em infraestrutura de nuvem, segurança e serviços principais da AWS.</small>
+      <br />
+      <a href="https://www.credly.com/users/antonio-marcos-rodrigues-batista">➡️ Ver todos os Badges no Credly</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-⭐️ *Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas.*
+## 📂 Projetos em Destaque
+
+- 🚀 **IgnisGuard** – Automação de vistorias operacionais para Corpos de Bombeiros  
+- 🌱 **CredVerd** – Fintech GreenTech para intermediação de créditos de carbono  
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <!-- Status e Línguas em um design moderno -->
+  <!-- <img src="https://metrics.lecoq.io/antoniomarcos-dev?base=header,activity,community,repositories,metadata&languages=1&languages.limit=6&theme=dark" alt="GitHub Metrics" /> -->
+  <!-- <br/><br/> -->
+  <!-- Streak alternativo (se o seu não carregar, use este link estável) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniomarcos-dev&theme=dark" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <strong>Aberto a novas conexões e parcerias em projetos inovadores.</strong><br/>
+  <sub>Antônio Marcos - Dev | Software Engineer | Cloud Engineer</sub>
+</div>
