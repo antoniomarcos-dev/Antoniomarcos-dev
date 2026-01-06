@@ -49,17 +49,10 @@ I actively contribute to open source and continuously improve my skills through 
 ### ☁️ AWS Certifications
 <p>
   <!-- Substitua pelos links reais dos seus badges -->
-  <a href="https://www.credly.com/badges/SEU_BADGE_ID">
-    <img src="https://images.credly.com/size/110x110/images/0c3a0d9e-aws-cloud-practitioner.png" alt="AWS Cloud Practitioner"/>
-  </a>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d035611e-979f-4271-80b1-549bbaa66dd3" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 
-### 🎓 Escola da Nuvem
-<p>
-  <a href="https://www.credly.com/badges/SEU_BADGE_ID">
-    <img src="https://images.credly.com/size/110x110/images/escola-da-nuvem.png" alt="Escola da Nuvem"/>
-  </a>
-</p>
 
 *Certifications validating skills in cloud computing, distributed systems, and modern software architecture.*
 
