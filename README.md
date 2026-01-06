@@ -41,7 +41,7 @@ I actively contribute to open source and continuously improve my skills through 
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <a href="https://www.credly.com/users/SEU_USUARIO_CREDLY" target="_blank">
+  <a href="https://www.credly.com/users/antonio-marcos-rodrigues-batista" target="_blank">
     <img src="https://img.shields.io/badge/Credly-View%20All%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
