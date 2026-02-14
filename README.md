@@ -36,7 +36,7 @@ Atualmente desenvolvo soluções para **Segurança Pública e Sustentabilidade (
 
 ## 🛠️ Tecnologias e Ferramentas
 
-  <table border="0">
+  <table align="center">
     <tr>
       <td width="50%" valign="top">
         <h4>💻 Languages & Frameworks</h4>
